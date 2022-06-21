@@ -1,3 +1,5 @@
+> CTRL+F to find the desired file.
+
 ## Folder structure ![some-changes](https://img.shields.io/badge/some_changes-yellow)
 
 ```
